@@ -1,0 +1,4 @@
+node_modules
+.env
+task-completion-file.log
+
